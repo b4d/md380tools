@@ -248,7 +248,7 @@ https://github.com/pchickey/md380-re
 
 ## Customization ##
 
-Temponary not avaible, see https://github.com/travisgoodspeed/md380tools/issues/221
+Temporary not avaible, see https://github.com/travisgoodspeed/md380tools/issues/221
 
 
 <strike>
